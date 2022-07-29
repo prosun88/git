@@ -2,3 +2,4 @@ line 1 from remote
 line 2 from local
 line 3 from remote
 line 4 from remote in feature branch
+line 5 from local in feature branch
